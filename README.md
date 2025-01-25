@@ -72,6 +72,7 @@ Below are some screenshots showcasing the functionality of the **Skin Disease De
 
 4. **Analysis in Progress**  
    <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0051.jpg" alt="Results Display" width="300">
+
    
 5. **Result**  
    <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Image Upload Screen" width="300">
