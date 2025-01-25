@@ -70,21 +70,17 @@ Below are some screenshots showcasing the functionality of the **Skin Disease De
 3. **Sign in**  
    <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg" alt="Sign in" width="300">
 
-4.**Image Upload Screen**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241005-WA0023.jpg" alt="Image Upload Screen" width="300">
+4. **Image Upload Screen**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Image Upload Screen" width="300">
 
-   
 5. **Result**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Result" width="300">
-   
-6. **set Reminder**
-       <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241005-WA0024.jpg" alt="Result" width="300">
-       
-        
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241005-WA0023.jpg" alt="Result" width="300">
 
-8. **Navigation Menu**  
+6. **Set Reminder**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241005-WA0024.jpg" alt="Set Reminder" width="300">
+
+7. **Navigation Menu**  
    <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0058.jpg" alt="Navigation Menu" width="300">
-
 
 
 ## Future Enhancements
