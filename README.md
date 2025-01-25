@@ -59,7 +59,30 @@ To run this project locally:
 4. View the prediction results and confidence scores.
 
 ## Screenshots
-_Add screenshots of your application here to give users a visual understanding of the system._
+Below are some screenshots showcasing the functionality of the **Skin Disease Detection System**:
+
+1. **Image Upload Screen**
+   ![Image Upload Screen](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg)
+
+2. **Analysis in Progress**
+   ![Analysis in Progress](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0050.jpg)
+
+3. **Results Display**
+   ![Results Display](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0051.jpg)
+
+4. **Detailed Results**
+   ![Detailed Results](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0054.jpg)
+
+5. **User-Friendly Interface**
+   ![User-Friendly Interface](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0055.jpg)
+
+6. **Prediction Screen**
+   ![Prediction Screen](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg)
+
+7. **Navigation Menu**
+   ![Navigation Menu](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0058.jpg)
+
+
 
 ## Future Enhancements
 - Integration of additional skin conditions.
