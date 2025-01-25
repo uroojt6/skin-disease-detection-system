@@ -61,26 +61,27 @@ To run this project locally:
 ## Screenshots
 Below are some screenshots showcasing the functionality of the **Skin Disease Detection System**:
 
-1. **Image Upload Screen**
-   ![Image Upload Screen](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg)
+1. **Image Upload Screen**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Image Upload Screen" width="500">
 
-2. **Analysis in Progress**
-   ![Analysis in Progress](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0050.jpg)
+2. **Analysis in Progress**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0050.jpg" alt="Analysis in Progress" width="500">
 
-3. **Results Display**
-   ![Results Display](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0051.jpg)
+3. **Results Display**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0051.jpg" alt="Results Display" width="500">
 
-4. **Detailed Results**
-   ![Detailed Results](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0054.jpg)
+4. **Detailed Results**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0054.jpg" alt="Detailed Results" width="500">
 
-5. **User-Friendly Interface**
-   ![User-Friendly Interface](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0055.jpg)
+5. **User-Friendly Interface**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0055.jpg" alt="User-Friendly Interface" width="500">
 
-6. **Prediction Screen**
-   ![Prediction Screen](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg)
+6. **Prediction Screen**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg" alt="Prediction Screen" width="500">
 
-7. **Navigation Menu**
-   ![Navigation Menu](https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0058.jpg)
+7. **Navigation Menu**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0058.jpg" alt="Navigation Menu" width="500">
+
 
 
 
