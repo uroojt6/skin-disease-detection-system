@@ -62,20 +62,20 @@ To run this project locally:
 Below are some screenshots showcasing the functionality of the **Skin Disease Detection System**:
 
 1. **ERMO**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0054.jpg" alt="Detailed Results" width="300">
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0054.jpg" alt="ERMO" width="300">
 
 2. **Sign up**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0055.jpg" alt="User-Friendly Interface" width="300">
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0055.jpg" alt="Sign up" width="300">
 
 3. **Sign in**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg" alt="Prediction Screen" width="300">
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0056.jpg" alt="Sign in" width="300">
 
-4. **Analysis in Progress**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0051.jpg" alt="Results Display" width="300">
+4.**Image Upload Screen**  
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Image Upload Screen" width="500">
 
    
 5. **Result**  
-   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Image Upload Screen" width="300">
+   <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241006-WA0055.jpg" alt="Result" width="300">
 
 6. **Navigation Menu**  
    <img src="https://github.com/uroojt6/skin-disease-detection-system/blob/main/IMG-20241010-WA0058.jpg" alt="Navigation Menu" width="300">
